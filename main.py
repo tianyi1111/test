@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
 def main():
-    print 'hello world'
+    print 'hello world!'
 
 main()
